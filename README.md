@@ -1,2 +1,2 @@
 # JavaScript-Basics
-A learning journey of JavaScript in readiness for Mobile App Development
+A learning journey into JavaScript fundamentals in preparation for Mobile App Development with React Native.
